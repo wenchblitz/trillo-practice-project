@@ -1,4 +1,5 @@
 # Ignore root files
+debug.css
 gulpfile.js
 package-lock.json
 package.json
@@ -14,4 +15,3 @@ dist/
 dist/*
 
 # Ignore file(s) in a folder
-css/debug.css
