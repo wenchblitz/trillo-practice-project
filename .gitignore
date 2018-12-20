@@ -1,5 +1,5 @@
 # Ignore root files
-debug.css
+debugger.css
 gulpfile.js
 package-lock.json
 package.json
