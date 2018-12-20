@@ -2,7 +2,6 @@
 gulpfile.js
 package-lock.json
 package.json
-index.txt
 
 # Ignore dev folder(s)
 node_modules/
