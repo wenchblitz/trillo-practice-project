@@ -6,5 +6,4 @@ package.json
 
 # Ignore dev folder(s)
 node_modules/
-src/
 dist/
