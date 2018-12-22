@@ -9,3 +9,4 @@ style.min.css.map
 node_modules/
 dist/
 src/
+src/*
