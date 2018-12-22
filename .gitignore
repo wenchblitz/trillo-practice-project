@@ -3,7 +3,9 @@ debugger.css
 gulpfile.js
 package-lock.json
 package.json
+style.min.css.map
 
 # Ignore dev folder(s)
 node_modules/
 dist/
+src/
