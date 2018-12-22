@@ -6,5 +6,5 @@ Trillo is a practice project. The basic idea behind this project is to practice 
 - Microsoft Visual Studio Code (VSCode - IDE) 
 - Google Chrome (Browser)
 - Gulp.js (Task runner)
-- HTML5/CSS3 (Technology)
+- HTML5, CSS3/SASS (Technology)
 - Git (Version Control)
