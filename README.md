@@ -2,9 +2,9 @@
 
 Trillo is a practice project. The basic idea behind this project is to practice Advanced CSS, SASS and Flexbox.
 
-# Tools
+## Tools
 - Microsoft Visual Studio Code (VSCode - IDE) 
-- Google Chrome (Browser)
-- Gulp.js (Task runner)
-- HTML5, CSS3/SASS (Technology)
-- Git (Version Control)
+- Google Chrome (browser)
+- Gulp.js (task runner)
+- HTML5/CSS3/SASS (technology/responsive)
+- Git (version control)
