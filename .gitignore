@@ -3,9 +3,11 @@ debugger.css
 gulpfile.js
 package-lock.json
 package.json
+text.txt
 
 # Ignore dev folder(s)
 node_modules/
 dist/
+
 
 
